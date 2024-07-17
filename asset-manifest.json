@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/adguro/medicine-monitor/static/css/main.f855e6bc.css",
+    "main.js": "/adguro/medicine-monitor/static/js/main.57d13b00.js",
+    "static/js/453.ec4aa683.chunk.js": "/adguro/medicine-monitor/static/js/453.ec4aa683.chunk.js",
+    "static/media/logo.svg": "/adguro/medicine-monitor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/adguro/medicine-monitor/index.html",
+    "main.f855e6bc.css.map": "/adguro/medicine-monitor/static/css/main.f855e6bc.css.map",
+    "main.57d13b00.js.map": "/adguro/medicine-monitor/static/js/main.57d13b00.js.map",
+    "453.ec4aa683.chunk.js.map": "/adguro/medicine-monitor/static/js/453.ec4aa683.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.57d13b00.js"
+  ]
+}
