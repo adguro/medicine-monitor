@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/medicine-monitor/static/css/main.2e3535a6.css",
-    "main.js": "/medicine-monitor/static/js/main.1977d0d3.js",
+    "main.css": "/medicine-monitor/static/css/main.4c8e85b5.css",
+    "main.js": "/medicine-monitor/static/js/main.f679314c.js",
     "static/js/453.ec4aa683.chunk.js": "/medicine-monitor/static/js/453.ec4aa683.chunk.js",
     "index.html": "/medicine-monitor/index.html",
     "static/media/delete.svg": "/medicine-monitor/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
     "static/media/edit.svg": "/medicine-monitor/static/media/edit.8cfd1d84718f081de4327bd813c4738c.svg",
     "static/media/check.svg": "/medicine-monitor/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
-    "main.2e3535a6.css.map": "/medicine-monitor/static/css/main.2e3535a6.css.map",
-    "main.1977d0d3.js.map": "/medicine-monitor/static/js/main.1977d0d3.js.map",
+    "main.4c8e85b5.css.map": "/medicine-monitor/static/css/main.4c8e85b5.css.map",
+    "main.f679314c.js.map": "/medicine-monitor/static/js/main.f679314c.js.map",
     "453.ec4aa683.chunk.js.map": "/medicine-monitor/static/js/453.ec4aa683.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e3535a6.css",
-    "static/js/main.1977d0d3.js"
+    "static/css/main.4c8e85b5.css",
+    "static/js/main.f679314c.js"
   ]
 }
